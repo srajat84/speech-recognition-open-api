@@ -1,5 +1,12 @@
 # Speech Recogntition Open API
 
+
+## CICD Setup:
+
+add below environment variables:
+GCP_PROJECT
+GOOGLE_AUTH
+
 ## Getting started guide:
 
 ### Setup the grpc server:
